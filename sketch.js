@@ -39,3 +39,5 @@ function draw() {
   	drops[key].fall();
   }
 }
+
+//xd
